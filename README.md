@@ -150,13 +150,12 @@ Run the required notebook or Python application according to the project setup.
 ## 👥 Team
 
 ### Smart India Hackathon Team
-
-| Member        | Contribution             |
-| ------------- | ------------------------ |
-| Manomay Gupta | AI/ML & Data Analysis    |
-| Team Member   | Development              |
-| Team Member   | Frontend / Backend       |
-| Team Member   | Research / Documentation |
+|Member          |  Contribution             |
+| -------------  | ------------------------  |
+| Manomay Gupta  |  AI/ML & Data Analysis    |
+| Parv Jain      |  Database management      |
+| Adarsh Patnaik |  Backend                  |
+| sparsh         |  Frontend                 |
 
 ## 🏆 Smart India Hackathon
 
